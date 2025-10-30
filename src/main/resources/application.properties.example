@@ -1,0 +1,7 @@
+spring.application.name=question-service
+spring.datasource.url=<url>
+spring.datasource.username=<username>
+spring.datasource.password=<password>
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.show-sql=true
